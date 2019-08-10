@@ -1,13 +1,14 @@
-<= What is your favorite editor?
+vim <= What is your favorite editor?
 
-<= What is your favorite color?
+blue <= What is your favorite color?
 
-Enter your name here =><=
+Enter your name here =>Casper<=
 
-Enter your name here:
+Enter your name here:Casper
 
 One the line below, type the name of your favorite movie.
-
+Forrest Gump
+Vim
 ^^^ One the line above, type the name of the editor you are using.
 
 This line belongs
@@ -15,17 +16,17 @@ with the one below it.
 
 Vim is her favorite editor.
 
-I have a white car.
+I have a white cat.
 
-I am having a great time in this vim class!
+I am having a brilliant time in this vim class!
 
-I love myself.
+I love everyone.
 
-Type something wonderful here.
+Type something wonderful here. I love having fun
 
 monday <= The "m" is supposed to be in uppercase.
 
-Don't shout.  It's not nice.
+Don't SHOUT.  It's not nice.
 
 mONDAY'S START BETTER WITH coffee.
 
@@ -36,8 +37,10 @@ Don't Shout.  It's just too loud.
 Please Whisper.
 
 Create a line of asterisks below:
+********************************************************************************
 
-
-Create 3 lines that begin with "-" below:
-
+Create 3 lines that begin with "-" below
+-
+-
+-
 This training is provided by LinuxTrainingAcademy.com.
